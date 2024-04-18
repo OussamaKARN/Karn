@@ -1,4 +1,4 @@
-# Karn
+# Junior Data Analyst
 
 # Hi there! 👋
 
